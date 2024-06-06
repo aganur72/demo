@@ -14,3 +14,4 @@ this is the new challenge
 2 change from git fetch ile veri cekyar yone manuel sync edilyar
 
 dd
+ss
