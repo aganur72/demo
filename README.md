@@ -7,5 +7,6 @@ Trying to explore Git clone and commit features
 
 This change from github inside but think as this changes made by someone else
 
-
 this is the new challenge
+
+1 change from git
